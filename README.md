@@ -1,4 +1,4 @@
-<img width="372" height="810" alt="image" src="https://github.com/user-attachments/assets/d2447cf9-4413-4218-bae9-df2adca095a7" /># 🐾 PetShop Business Analysis Project
+# 🐾 PetShop Business Analysis Project
 
 > Business Analysis portfolio project for a Pet Shop Management System.
 
