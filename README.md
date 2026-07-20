@@ -1,179 +1,168 @@
-
 # 🐾 PetShop Business Analysis Project
 
-## Overview
-
-This repository contains the Business Analysis documentation and UI prototype for the **PetShop Management System**.
-
-The project was developed as part of a university software engineering course, focusing on requirement analysis, business process design, and user interface prototyping.
-
-My primary responsibilities included:
-
-- Requirement Analysis
-- Business Process Analysis
-- User Story Definition
-- Functional Requirement Identification
-- User Flow Design
-- Wireframe Design using Figma
-- Requirement Clarification with the Development Team
+> Business Analysis portfolio project for a Pet Shop Management System.
 
 ---
 
-# Project Information
+## 📌 Overview
 
-| Item | Details |
-|------|---------|
-| Project | PetShop Management System |
-| Role | Team Leader / Business Analyst |
-| Duration | Sep 2024 – Nov 2024 |
-| Methodology | Agile (Scrum) |
+This repository contains the business analysis deliverables and high-fidelity UI prototype for a **Pet Shop Management System** developed as part of a university software engineering project.
+
+The project focuses on analyzing business requirements, designing business features, and creating an interactive prototype to support the development process.
 
 ---
 
-# Business Objectives
+## 👨‍💼 My Role
 
-The system aims to digitize pet shop operations by integrating:
+**Team Leader | Business Analyst**
 
-- Pet product marketplace
-- Veterinary appointment booking
-- Medical record management
-- Diagnosis and treatment workflow
-- Online payment
-- Employee scheduling
-- Customer communication
-- User profile management
+### Responsibilities
+
+- Gathered and analyzed business requirements
+- Identified functional requirements
+- Designed business workflows
+- Created user flows
+- Designed high-fidelity UI prototype using Figma
+- Collaborated with team members during requirement clarification
+- Reviewed business features before development
 
 ---
 
-# Main Features
+## 🎯 Project Objectives
 
-## Customer
+The Pet Shop Management System aims to digitalize pet shop operations by providing a single platform for customers, veterinarians, employees, and administrators.
 
-- Register/Login
-- Manage Profile
-- Browse Products
-- Search Products
+The system helps users:
+
+- Purchase pet products online
+- Book veterinary appointments
+- Manage pet medical records
+- Receive diagnosis and treatment plans
+- Complete online payments
+- Manage employee schedules
+- Communicate through in-app messaging
+- Track purchase history
+- Manage personal profiles
+
+---
+
+## ✨ Main Features
+
+### 👤 Customer
+
+- User Authentication
+- Product Browsing
+- Product Search
 - Shopping Cart
 - Online Payment
+- Appointment Booking
 - Purchase History
-- Book Veterinary Appointment
+- Notifications
+- Profile Management
 - Chat with Staff
-- Receive Notifications
 
 ---
 
-## Veterinarian
+### 👨‍⚕️ Veterinarian
 
-- Manage Medical Records
+- View Appointment Schedule
 - Diagnose Pets
+- Manage Medical Records
 - Create Treatment Plans
-- Import Prescriptions
+- Prescribe Medication
 - Update Examination Results
-- Patient Communication
 
 ---
 
-## Employee
+### 👨‍💼 Employee
 
-- Manage Work Schedule
 - Appointment Management
 - Customer Support
+- Work Schedule Management
 
 ---
 
-## Administrator
+### 🛠 Administrator
 
 - Employee Management
 - Customer Management
 - Appointment Management
-- Role Management
-- Business Monitoring
+- System Monitoring
 
 ---
 
-# Business Analysis Deliverables
+## 🖥 Prototype
 
-This repository includes:
+The repository includes a **high-fidelity interactive prototype** designed in Figma.
 
-- Business Requirement Analysis
-- Functional Requirements
-- User Stories
-- Business Process
-- User Flow
-- Wireframes
-- UI Prototype
+The prototype demonstrates:
 
----
-
-# Tools
-
-- Figma
-- Draw.io
-- Microsoft Office
-- Canva
+- User navigation flow
+- Business features
+- Screen interactions
+- UI design
+- Functional workflow
 
 ---
 
-# My Responsibilities
-
-- Led requirement gathering sessions
-- Designed business workflows
-- Created user flows
-- Identified functional requirements
-- Designed wireframes using Figma
-- Clarified requirements with teammates
-- Ensured business requirements were feasible before implementation
-
----
-
-# Repository Structure
+## 📂 Repository Structure
 
 ```
 PetShop-Business-Analysis
 │
 ├── README.md
-├── Prototype/
-│   └── Prototype Pet shop.pdf
 │
-├── Business Process/
-│
-├── User Flow/
-│
-├── Wireframes/
-│
-├── UML Diagrams/
-│
-└── Documentation/
+└── Prototype/
+    └── Prototype Pet shop.pdf
 ```
 
 ---
 
-# Screenshots
+## 🛠 Tools
 
-(Add UI screenshots here)
-
----
-
-# Future Improvements
-
-- Software Requirement Specification (SRS)
-- BPMN Diagram
-- Use Case Diagram
-- Activity Diagram
-- Sequence Diagram
-- Database Design
-- API Specification
+- Figma
+- Microsoft Office
+- Canva
 
 ---
 
-# Author
+## 📖 What I Learned
+
+Throughout this project, I gained practical experience in:
+
+- Business Requirement Analysis
+- Functional Requirement Identification
+- Business Process Thinking
+- Feature Analysis
+- UI Prototyping
+- Team Collaboration
+- Software Development Workflow
+
+---
+
+## 🚀 Future Improvements
+
+Future versions of this repository may include:
+
+- Business Process Diagrams
+- Use Case Diagrams
+- Activity Diagrams
+- Sequence Diagrams
+- Requirement Documentation
+- User Stories
+
+---
+
+## 👤 Author
 
 **Bui Quoc Hung**
 
-Business Analyst | Manual Tester
+Business Analyst Intern | Manual Tester
 
-LinkedIn:
-(your linkedin)
+📧 Email: hungbui14092004@gmail.com
 
-GitHub:
+💼 LinkedIn:
+https://www.linkedin.com/in/quốc-hưng-9b8b21335/
+
+💻 GitHub:
 https://github.com/Hwngne
