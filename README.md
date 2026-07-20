@@ -1,4 +1,4 @@
-# 🐾 PetShop Business Analysis Project
+<img width="372" height="810" alt="image" src="https://github.com/user-attachments/assets/d2447cf9-4413-4218-bae9-df2adca095a7" /># 🐾 PetShop Business Analysis Project
 
 > Business Analysis portfolio project for a Pet Shop Management System.
 
@@ -9,7 +9,23 @@
 This repository contains the business analysis deliverables and high-fidelity UI prototype for a **Pet Shop Management System** developed as part of a university software engineering project.
 
 The project focuses on analyzing business requirements, designing business features, and creating an interactive prototype to support the development process.
+## 📸 Prototype Preview
 
+### Home Screen
+
+![Home](Images/Home.png)
+
+### Product Detail
+
+![Product](Images/Product.png)
+
+### Appointment Booking
+
+![Booking](Images/Booking.png)
+
+### Payment
+
+![Payment](Images/Payment.png)
 ---
 
 ## 👨‍💼 My Role
