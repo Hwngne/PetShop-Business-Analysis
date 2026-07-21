@@ -13,7 +13,8 @@ The project focuses on analyzing business requirements, designing business featu
 
 ### Home Screen
 
-![Home](Images/Home.png)
+![Home](<img width="168" height="357" alt="image" src="https://github.com/user-attachments/assets/bd555643-d5ad-4ba0-8ea6-67161880f3a2" />
+)
 
 ### Product Detail
 
